@@ -1,0 +1,4 @@
+Business Processes,DimDate,DimCustomer,DimEmployee,DimWarehouse,DimProduct,DimVehicle,DimOrderStatus,DimRestockStatus,DimPaymentMethod,DimStorageLocation
+FactOrders,X,X,X,X,X,X,X,,X,
+FactInventoryStock,,,,X,X,,,,,
+FactRestock,X,,,X,X,,,X,,X
