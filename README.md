@@ -16,7 +16,7 @@ The solution demonstrates how raw data is transformed into a structured warehous
 ## 🏗️ Architecture
 The architecture follows a **Business → Landing → Staging → Warehouse → Reporting** approach:
 
-![Architecture](./01_Business_Understanding_ KPIs_and_Objectives/pipeline.png)
+![Architecture](./01_Business_Understanding_KPIs_and_Objectives/pipeline.png)
 
 **Steps:**
 0. **Business & KPIs Definition** – Identify the required KPIs and metrics with business stakeholders  
