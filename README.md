@@ -35,15 +35,6 @@ The architecture follows a **Business → Landing → Staging → Warehouse → 
 
 ---
 
-## 🔄 Data Pipeline
-![Pipeline](./01_Business Understanding KPIs_and_Objectives/pipeline.png)
-
-- **Source Systems** → Landing tables (truncate & load from SQL Server)  
-- **Staging Layer** → Apply incremental loads, surrogate keys, SCD2  
-- **Warehouse Layer** → Galaxy schema optimized for analytics  
-- **Reporting Layer** → Power BI dashboards & SSAS cubes for advanced analytics  
-
----
 
 ## 🗄️ Data Model
 The **Galaxy Schema** was designed to optimize querying and reporting, with multiple fact tables connected to shared dimensions.
