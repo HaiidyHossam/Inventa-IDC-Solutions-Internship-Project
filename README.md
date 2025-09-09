@@ -16,7 +16,7 @@ The solution demonstrates how raw data is transformed into a structured warehous
 ## 🏗️ Architecture
 The architecture follows a **Business → Landing → Staging → Warehouse → Reporting** approach:
 
-![Architecture](./01_Business Understanding KPIs_and_Objectives/pipeline.png)
+![Architecture](./01_Business_Understanding_KPIs_and_Objectives/pipeline.png)
 
 **Steps:**
 0. **Business & KPIs Definition** – Identify the required KPIs and metrics with business stakeholders  
@@ -39,7 +39,7 @@ The architecture follows a **Business → Landing → Staging → Warehouse → 
 ## 🗄️ Data Model
 The **Galaxy Schema** was designed to optimize querying and reporting, with multiple fact tables connected to shared dimensions.
 
-![DataModel](./03-Data Modelling/Full_Warehouse.png)
+![DataModel](./03-Data_Modelling/Full_Warehouse.png)
 
 
 
