@@ -36,7 +36,7 @@ The architecture follows a **Business → Landing → Staging → Warehouse → 
 ---
 
 ## 🔄 Data Pipeline
-![Pipeline](./images/pipeline.png)
+![Pipeline](./01_Business Understanding KPIs_and_Objectives/pipeline.png)
 
 - **Source Systems** → Landing tables (truncate & load from SQL Server)  
 - **Staging Layer** → Apply incremental loads, surrogate keys, SCD2  
@@ -48,11 +48,9 @@ The architecture follows a **Business → Landing → Staging → Warehouse → 
 ## 🗄️ Data Model
 The **Galaxy Schema** was designed to optimize querying and reporting, with multiple fact tables connected to shared dimensions.
 
-![DataModel](./03-Data Modelling/Full Warehouse.png)
+![DataModel](./03-Data Modelling/Full_Warehouse.png)
 
-- **Fact Tables**: Contain business metrics (e.g., Warehouse availability, Sales facts, Supplier performance)  
-- **Dimension Tables**: Contain descriptive attributes (e.g., Products, Suppliers, Time, Store)  
-- **Shared Dimensions**: Ensure consistency across facts in the Galaxy Schema  
+
 
 ---
 
