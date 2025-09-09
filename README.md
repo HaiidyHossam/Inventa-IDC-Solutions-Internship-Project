@@ -61,20 +61,20 @@ Power BI & SSAS were used to deliver **business insights and multidimensional an
 
 This solution delivers **5 main dashboards**:
 
-1. **Business Overview Dashboard** –  
-   ![Dashboard1](./07-Insights/00-BUSINESS OVERVIEW.png)
+1. **Business Overview Dashboard**  
+   ![Dashboard1](./07-Insights/00-BUSINESS_OVERVIEW.png)
 
-2. **Inventory KPIs Dashboard** –  
-   ![Dashboard2](./07-Insights/01-INVENTORY MANAGMENT.png)
+2. **Inventory KPIs Dashboard**   
+   ![Dashboard2](./07-Insights/01-INVENTORY_MANAGMENT.png)
 
-3. **Suppliers Dashboard** – 
+3. **Suppliers Dashboard** 
    ![Dashboard3](./07-Insights/02-SUPPLIERS.png)
 
-4. **Product KPIs Dashboard** –  
+4. **Product KPIs Dashboard**   
    ![Dashboard4](./07-Insights/03-PRODUCT.png)
 
-5. **Sales Overview Dashboard** – 
-   ![Dashboard5](./07-Insights/04-SALES PERFORMANCE.png)
+5. **Sales Overview Dashboard** 
+   ![Dashboard5](./07-Insights/04-SALES_PERFORMANCE.png)
 
 ---
 
