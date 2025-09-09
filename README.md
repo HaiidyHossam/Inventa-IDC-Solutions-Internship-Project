@@ -76,6 +76,12 @@ This solution delivers **5 main dashboards**:
 
 ---
 
+## 👥 Contributors
+
+- [BadrAhmed-228](https://github.com/BadrAhmed-228)  
+- [hazemmostafaa](https://github.com/hazemmostafaa)   
+
+
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
