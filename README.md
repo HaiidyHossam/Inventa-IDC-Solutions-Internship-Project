@@ -78,8 +78,15 @@ This solution delivers **5 main dashboards**:
 
 ## 👥 Contributors
 
+- [HaiidyHossam](https://github.com/HaiidyHossam) 
 - [BadrAhmed-228](https://github.com/BadrAhmed-228)  
-- [hazemmostafaa](https://github.com/hazemmostafaa)   
+- [hazemmostafaa](https://github.com/hazemmostafaa)  
+- [amed02](https://github.com/AliHamed02)  
+- [Ahmed-1920](https://github.com/Ahmed-1920)  
+- [Elabiad-777](https://github.com/Elabiad-777) 
+- [koshyilkongo14](https://github.com/koshyilkongo14) 
+
+
 
 
 ## 🚀 How to Run
